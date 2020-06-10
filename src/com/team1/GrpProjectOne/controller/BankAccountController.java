@@ -10,7 +10,7 @@ import com.team1.GrpProjectOne.model.AccountInfo;
 public class BankAccountController {
 	
 	public static final int FEE = 3;
-	public static final int INTEREST = 7;
+	public static final int INTEREST = 8;
 	public static void main(String[] args) {
 		System.out.println("This is the main client page.");
 		System.out.println("this change is from mehool");
